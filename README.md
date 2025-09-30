@@ -30,8 +30,7 @@ The final output is saved as **`output.pdf`**.
 
 **Install dependencies**:
 ```bash
-pip install -r Requirements.txt
-```
+pip install -r Requirements.txt```
 
 ---
 
